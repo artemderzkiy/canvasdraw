@@ -1,0 +1,16 @@
+body,html {
+  margin: 0;
+  padding: 0; 
+}
+html {
+	text-align: center;
+	}
+h1,h2 {
+	color : yellow;
+	text-shadow:0 0 10px green;
+}
+canvas
+{
+	border: 2px solid black;
+	border-radius: 4px;
+}
